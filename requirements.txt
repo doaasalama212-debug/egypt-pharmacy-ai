@@ -1,0 +1,10 @@
+crewai==1.14.4
+crewai-tools==1.14.4
+litellm
+requests
+beautifulsoup4
+lxml
+streamlit
+pandas
+numpy
+plotly
